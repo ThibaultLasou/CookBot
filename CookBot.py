@@ -1,7 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+import sys
+sys.path.append
 import enum
 import treetaggerwrapper
 
-verbManger = ["manger", "affamer"]
+verbManger = ["manger", "affamer", "cuisiner"]
 exprManger = [("avoir", "faim", "dalle")]
 knownIngredients = ["pomme", "pâte", "orange"]
 numbers = {}
@@ -20,18 +24,32 @@ class Request:
         self.Results = []
 
     def fillRequest(self, tagW):
-        for i in range(0,len(tagW)):
+        for i, w in enumerate(tagW):
             w = tagW[i]
             if w.posTag == "NOM":
                 if i>0 and tagW[i-1].posTag == "NUM":
                    for kI in knownIngredients:
                        if w.lemma == kI:
                            self.availableIngredients.append((int(tagW[i-1].word), w.lemma))
+                           self.isSet["availableIngredients"] = True
                            break;
+
+    def findRecipes(self):
+       return 
 
     def printRequest(self):
         print(self.availableIngredients)
         
+def formatTTG(output):
+    words=[]
+    for w in output:
+        words.append(TreeTaggerWord(w.split("\t")))
+    return words
+
+class TreeTaggerWord:
+    def __init__(self, triplet):
+        self.word, self.posTag, self.lemma = triplet
+
 def eatingIntention(tagW):
     for w in taggedWords:
         if w.posTag[0:3] == "VER":
@@ -39,16 +57,6 @@ def eatingIntention(tagW):
                 if w.lemma == verb:
                     return True
     return False
-                
-class TreeTaggerWord:
-    def __init__(self, triplet):
-        self.word, self.posTag, self.lemma = triplet
-
-def formatTTG(output):
-    words=[]
-    for w in output:
-        words.append(TreeTaggerWord(w.split("\t")))
-    return words
 
 def postTreatment(TW):
     for w in TW:
