@@ -38,8 +38,6 @@ def eatingIntention(tagW):
             for verb in verbManger:
                 if w.lemma == verb:
                     return True
-            if w.lemma == exprManger[0]:
-                for w
     return False
                 
 class TreeTaggerWord:
