@@ -1,6 +1,6 @@
 \documentclass{report}
 
-\usepackage[utf8]{inputenc}
+\usepackage[utf8x]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[french]{babel}
 \usepackage{lmodern}
@@ -61,15 +61,16 @@
 
 \newcommand{\diff}{\mathop{}\mathopen{}\mathrm{d}}
 \newcommand{\R}{\mathop{}\mathopen{}\mathbb{R}}
+\renewcommand*\thesection{\arabic{section}}
 
 \begin{document}
 \pagestyle{polytech}
 \chapter*{Projet ET4 - TAL\\CookBot}
 \section*{Introduction}
 
-Un chatbot, aussi appelé « agent conversationnel », est un programme informatique pouvant dialoguer avec un individu ou utilisateur par le biais d'un service de conversations automatisées vocal ou textuel. Cet outil est aujourd 'hui très utilisé sur internet par les services clients ou de commerçants en ligne à travers la messagerie instantanée.\\
+Un chatbot, aussi appelé \og agent conversationnel \fg{}, est un programme informatique pouvant dialoguer avec un individu ou utilisateur par le biais d'un service de conversations automatisées vocal ou textuel. Cet outil est aujourd 'hui très utilisé sur internet par les services clients ou de commerçants en ligne à travers la messagerie instantanée.\\
 
-À l'origine, le chatbot fonctionne en s'appuyant sur une base de données de questions-réponses qui sont déclenchées en fonction de certains mots-clés repérés dans la conversation. Mais les progrès de l'intelligence artificielle, plus précisément de l'apprentissage automatique, ont permis de créer des agents conversationnels beaucoup plus évolués dotés d'un système d'analyse du langage naturel très performant qui  permet de plus en plus « d'analyser » et « comprendre » les messages et qui sont capables de s'améliorer au fur et à mesure de leur utilisation.\\
+À l'origine, le chatbot fonctionne en s'appuyant sur une base de données de questions-réponses qui sont déclenchées en fonction de certains mots-clés repérés dans la conversation. Mais les progrès de l'intelligence artificielle, plus précisément de l'apprentissage automatique, ont permis de créer des agents conversationnels beaucoup plus évolués dotés d'un système d'analyse du langage naturel très performant qui  permet de plus en plus  d'analyser et comprendre les messages et qui sont capables de s'améliorer au fur et à mesure de leur utilisation.\\
 
 
 Aujourd'hui l'utilisation des chatbots s'est considérablement étendue, ils sont capables de répondre à des besoins ponctuels comme :
@@ -80,7 +81,7 @@ Aujourd'hui l'utilisation des chatbots s'est considérablement étendue, ils son
 \item demander la localisation GPS;
 \item répondre à une question technique;...
 \end{itemize}
-Pour notre projet on a choisi de réaliser un « Cookbot » qui est une sorte d'aide culinaire. On a choisi ce thème car l’alimentation est importante pour avoir une vie saine. Se nourrir C'est aussi un acte social, émotif et vital. On se nourrit le plus souvent parce qu'on a faim; parfois aussi pour combler un manque affectif ou pour faire plaisir à ses hôtes… Néanmoins ce n'est pas toujours facile de cuisiner c'est pour cela qu'on propose ce Cookbot qui va faciliter la vie de ses utilisateurs.\\
+Pour notre projet on a choisi de réaliser un \og Cookbot \fg{} qui est une sorte d'aide culinaire. On a choisi ce thème car l’alimentation est importante pour avoir une vie saine. Se nourrir C'est aussi un acte social, émotif et vital. On se nourrit le plus souvent parce qu'on a faim; parfois aussi pour combler un manque affectif ou pour faire plaisir à ses hôtes… Néanmoins ce n'est pas toujours facile de cuisiner c'est pour cela qu'on propose ce Cookbot qui va faciliter la vie de ses utilisateurs.\\
 
 \section{Description du projet}
 \subsection{Objectifs du projet}
@@ -90,7 +91,7 @@ Le cookbot sera relié à une base de données de recettes et doté d'autres fon
 \item afficher une recette ( ingrédients et préparation) à partir de son titre ou intitulé;
 \item afficher une/des recette(s) à partir d'une culture(Japonais/italien);
 \item indiquer les quantités des ingrédients d'une recette à partir du nombre de convives;
-\item répertorier des recettes « favorites »;
+\item répertorier des recettes favorites;
 \item répertorier les recettes/aliments non souhaités (chou-fleur, porc,…);
 \item faire un historique des recettes déjà recherchées;
 \item planifier des événements (anniversaire, invitation, …);
@@ -100,8 +101,33 @@ Le cookbot sera relié à une base de données de recettes et doté d'autres fon
 \item possibilité d'ajouter des recettes;
 \end{itemize}
 \subsection{Organisation du travail}
-
-\section{Accopmlissements}
+Pour réaliser ce projet, on a tout d'abord établi un cahier des charges ou on a spécifié les objectifs du  projet en le découpant en tâches/objectifs puis en les triant selon un ordre de priorité:
+\subsubsection{Priorité 0 :  Commencer une conversation } Permettre à l'utilisateur de dialoguer à travers 3 modes : 
+\begin{itemize}
+\item mode naïf : \og (mots ou expressions qui expriment la faim/l'envie de se nourrir)[ingrédients] [nombre de personnes]\fg{}
+\item mode orienté : \og (mots ou expressions qui expriment la faim/l'envie de se nourrir)[type de nourriture] [culture] [nombre de personnes]\fg{}
+exemples : Je voudrais manger italien aujourd'hui, Je veux un dessert pour 3 personnes
+\item  mode précis : \og ( mots ou expressions qui expriment le besoin)[nom de la recette]\fg{}
+\end{itemize}
+\subsubsection{Priorité 1 : Création et organisation de la base de données}
+\begin{itemize}
+\item Base de données qui contient des recettes avec des intitulés, une liste d'ingrédients, le temps de préparation, le nombre de personnes,…
+\item Pour remplir la base de données : utilisation d'une bibliothèque Python qui sert à parser du code html tiré à partir d'un site internet de recettes (www.marmiton.org).
+\item Ajouter des options pour par exemple ajouter des recettes. 
+\end{itemize}
+\subsubsection{Priorité 2 :  Intégrer une sorte de mémoire} ajouter des fonctionnalités pour permettre à l'utilisateur de :
+\begin{itemize}
+\item Avoir la possibilité de créer une liste d'ingrédients bannis. Par exemple \og Je n'aime pas les brocolis \fg{};
+\item Avoir un historique de recettes ;
+\item Prévoir des événements. Par exemple : \og Mes parents mangent avec moi Samedi et j'aimerais un dessert... \fg{} […] Samedi : \og Voici le dessert que vous avez planifié \fg{}
+\end{itemize}
+\subsubsection{Priorité 3 : Avoir des conversations } c'est un mode beaucoup plus avancé qui pourra prendre part à des conversations et qui n'est pas seulement une machine qui propose des réponses répertoriées. On ajoutera des fonctionnalités plus subtiles qui pourront par exemple de :
+\begin{itemize}
+\item Suggérer des recettes ( de saison par exemple)
+\item Comprendre de nouveaux paramètres. Par exemple : \og aujourd'hui, je ne veux pas de brocolli. \fg{}
+\item Avoir des jugements. \og Tu ne devrais pas manger de la pizza 3 fois par jour.\fg{}
+\end{itemize}
+\section{Accomplissements}
 \section{Améliorations possibles}
 \section{Contribution de chacun des membres}
 \section*{Conclusion}
