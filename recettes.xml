@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Recette>
+	<Titre>Apple pie fondant au caramel</Titre>
+	<TempsPreparation>50 minutes</TempsPreparation>
+	<TempsCuisson>40 minutes</TempsCuisson>
+	<NombrePersonne>8</NombrePersonne>
+	<Ingredients>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>300 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre ramolli</NomItem>
+			<Quantite>250 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>levure  de boulanger</NomItem>
+			<Quantite>2 pincées</Quantite>
+		</Item>
+		<Item>
+			<NomItem>eau</NomItem>
+			<Quantite>10-12 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite>1 pincée</Quantite>
+		</Item>
+		<Item>
+			<NomItem>pommes</NomItem>
+			<Quantite>6</Quantite>
+		</Item>
+		<Item>
+			<NomItem>cassonade</NomItem>
+			<Quantite>200 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>citron pressé</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>cannelle</NomItem>
+			<Quantite>3 cuillères à soupe</Quantite>
+		</Item>
+	</Ingredients>
+
+	<Preparation>Préparer la pâte: dans un bol mélanger 50 g de farine, 1 pincée de sel avec la levure dissoute dans le verre d' eau. Pétrir jusqu'à obtention d'une boule. Dans un saladier mélanger progressivement le reste de farine (soit 250 g), 3 pincées de sel avec le beurre ramolli à l'air libre en incorporant petit à petit la boule de pâte préparée précédemment. Mettre la pâte dans le saladier couvert d'un torchon, au réfrigérateur au moins une heure. Environ 10 minutes avant de sortir la pâte du frigo, commencer à préparer la garniture. Peler les pommes et les couper en morceaux assez grossiers (coupez en quartiers puis en 2 dans le sens de la largeur). Les mettre dans un grand saladier, les arroser de jus de citron puis les saupoudrer de cassonade et de cannelle. Mélanger bien de sorte que toutes les pommes soient imbibées de ce sirop.Réserver de côté (le jus de citron empêche les pommes de s'oxyder pendant un moment). Préchauffer le four à 180°C (thermostat 6).Sortir la pâte du frigo. La séparer en 2 boules, l'une devant être très légèrement plus grosse que l'autre. Etaler la plus petite de manière à obtenir un cercle d'environ 25 cm de diamètre. Si votre moule est un peu plus large, ne pas préparer plus de pâte qu'indiqué, il y en a suffisament et elle est suffisament élastique pour être étirée sans s'effriter). Disposer la pâte dans un moule d'environ 25 cm de diamètre et la recouvrir généreusement de la préparation aux pommes.Parsemer de quelques petits morceaux de beurre. Etaler l'autre morceau de pâte et recouvrez le gâteau avec celle-ci en collant un peu les pourtours. Enfourner pour 40 minutes de cuisson. Le sirop des pommes va caraméliser! Servez tiède avec de la crème fraîche battue bien froide.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Crêpes</Titre>
+	<TempsPreparation>5 minutes</TempsPreparation>
+	<TempsCuisson>5 minutes</TempsCuisson>
+	<NombrePersonne>6</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>375 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>4</Quantite>
+		</Item>
+		<Item>
+			<NomItem>huile</NomItem>
+			<Quantite>2 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>2 pincées</NomItem>
+			<Quantite>sel</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lait</NomItem>
+			<Quantite>50 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>bière</NomItem>
+			<Quantite>25 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>rhum</NomItem>
+			<Quantite>2 cuillère à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre</NomItem>
+			<Quantite>20 g</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Mélanger la farine avec les oeufs, l'huile et le sel. Ajoutez ensuite le lait, la bière et le rhum. Mélangez le tout : c'est prêt en deux minutes avec un mixer ! Faites cuire à la poêle avec une noix de beurre.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Cupcakes</Titre>
+	<TempsPreparation>15 minutes</TempsPreparation>
+	<TempsCuisson>20 minutes</TempsCuisson>
+	<NombrePersonne>9</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>140 g</Quantite>
+		</Item>
+		Item>
+			<NomItem>beurre fondu</NomItem>
+			<Quantite>120 g</Quantite>
+		</Item>
+		Item>
+			<NomItem>sucre</NomItem>
+			<Quantite>120 g</Quantite>
+		</Item>
+		Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		Item>
+			<NomItem>lait</NomItem>
+			<Quantite>3 cuillères à soupe</Quantite>
+		</Item>
+		Item>
+			<NomItem>levure</NomItem>
+			<Quantite>1/2 sachet</Quantite>
+		</Item>
+		Item>
+			<NomItem>bicarbonate</NomItem>
+			<Quantite>1 cuillère à café</Quantite>
+		</Item>
+		Item>
+			<NomItem>vanille liquide</NomItem>
+			<Quantite>1 cuillère à café</Quantite>
+		</Item>
+		Item>
+			<NomItem>beurre mou</NomItem>
+			<Quantite>100 g</Quantite>
+		</Item>
+		Item>
+			<NomItem>sucre de glace</NomItem>
+			<Quantite>200 g</Quantite>
+		</Item>
+		Item>
+			<NomItem>lait</NomItem>
+			<Quantite>3 cuillères à soupe</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Préchauffer votre four à 200°C (thermostat 6). Faire fondre le beurre puis l'ajouter au sucre dans un saladier. Ajouter les œufs puis la farine, le bicarbonate et la levure. Bien mélanger le tout pour éviter les grumeaux. Ajouter le lait et la vanille. Remplir les moules à cupcakes au 3/4. (En cas de moules papier : les disposer dans un ramequin ou autre pour éviter qu'ils ne s’aplatissent.) Enfourner pendant 20 min à 200°C. Laisser refroidir sans démouler. Quand les cupcakes sont bien refroidis, préparer la crème beurre. Battre avec un fouet (électrique ou non) pendant 3 à 5 min, le beurre mou et le sucre glace. Ajouter du lait + ou - selon la consistance. La crème ne doit pas être trop liquide ni trop compacte afin d'avoir la consistance idéale pour la poche à douille. Décorer vos cupcakes avec la crème au beurre et une poche à douille (pour faire plus joli) : Astuce, si vous n'avez pas de poche à douille, prenez un petit sachet de congélation dont vous aurez coupé un tout petit peu de l'un de ses coins ! Pour colorer la crème au beurre : colorant alimentaire ou chocolat en poudre, sirop de menthe, grenadine... Décoration : pépites de chocolats, vermicelles, sucres rigolos et tout ce que vous imaginez d'autres...
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gâteau à l'orange</Titre>
+	<TempsPreparation>30 minutes</TempsPreparation>
+	<TempsCuisson>40 minutes</TempsCuisson>
+	<NombrePersonne>6</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>oranges</NomItem>
+			<Quantite>4</Quantite>
+		</Item>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>175 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre</NomItem>
+			<Quantite>175 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre en poudre</NomItem>
+			<Quantite>175 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre glace</NomItem>
+			<Quantite>125 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>levure</NomItem>
+			<Quantite>1/2 sachet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>3</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Faire ramollir le beurre en morceaux. Ajouter en remuant avec un fouet (dans l'ordre) le sucre en poudre, les œufs un par un, la farine tamisée, la levure, le zeste de deux oranges et le jus d'une orange. Beurrer le moule. Cuire à four moyen environ 40 min (faites le test de la lame de couteau pour tester la cuisson qui prend parfois plus de temps). Démouler en sortant du four (conseil : glisser une lame de couteau tout autour et retourner sur un plat. Laisser refroidir un peu et enlever ensuite le moule).Glaçage : Cuire à feu doux 5 min le sucre glace et le jus de 3 oranges. Arroser le gâteau de sirop sur toutes les faces en le retournant délicatement. Dégustez frais. Le gâteau peut se préparer la veille et se conserver une nuit au frigo).Délicieux avec une crème anglaise.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gâteau à la banane</Titre>
+	<TempsPreparation>25 minutes</TempsPreparation>
+	<TempsCuisson>45 minutes</TempsCuisson>
+	<NombrePersonne>8</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>farine de blé</NomItem>
+			<Quantite>240 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite>1 pincée</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre en poudre</NomItem>
+			<Quantite>200 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>levure</NomItem>
+			<Quantite>1 sachet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>vanille</NomItem>
+			<Quantite>1 sachet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>bananes</NomItem>
+			<Quantite>4</Quantite>
+		</Item>
+		<Item>
+			<NomItem>citron</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lait</NomItem>
+			<Quantite>10 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre</NomItem>
+			<Quantite>170 g</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Préchauffer le four à 150°C (thermostat 3). Dans un saladier, mélanger le sucre, la farine, le sachet de levure et de vanille, et une pincée de sel. Mettre le mélange de côté. Peler les 3 bananes et les couper en rondelles. Puis verser dans un mixeur les bananes, le jus de citron, les oeufs, le lait. Faire ramollir le beurre puis l'incorporer à ce mélange.Reprendre le mélange effectué dans le saladier et l'ajouter à la préparation du mixeur. Mélanger le tout de façon homogène. Prendre un moule à gâteau, le beurrer et le fariner. Verser la pâte dans le moule et enfourner le tout.Laisser le gâteau refroidir puis le décorer à votre façon en y mettant la banane restante que vous découperez en rondelles.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gâteau au yaourt</Titre>
+	<TempsPreparation>15 minutes</TempsPreparation>
+	<TempsCuisson>30 minutes</TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>levure chimique</NomItem>
+			<Quantite>1/2 paquet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>yourt nature</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>huile de colza</NomItem>
+			<Quantite>1/2 pot</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre semoule</NomItem>
+			<Quantite>2 pots</Quantite>
+		</Item>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>3 pots</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>zeste de citron jaune</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Préchauffer le four à 180°C (thermostat 6). Mélanger tout simplement les ingrédients un à un en suivant l'ordre suivant : levure, yaourt, huile, sucre, farine, oeuf et zestes. Beurrer un moule à manquer et y verser la pâte. Enfourner pour environ 30 minutes de cuisson. Vérifier la cuisson avec la pointe d'un couteau (elle doit ressortir sèche).
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gâteau aux pêches</Titre>
+	<TempsPreparation>20 minutes</TempsPreparation>
+	<TempsCuisson>40 minutes</TempsCuisson>
+	<NombrePersonne>8</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>pêches</NomItem>
+			<Quantite>6</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre</NomItem>
+			<Quantite>4 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>gousse de vanille</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre</NomItem>
+			<Quantite>125 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>125 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>levure</NomItem>
+			<Quantite>1/2 sachet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeuf</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>crème anglaise</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Couper les pêches en 2 et ôter les noyaux. Les mettre dans une casserole avec 4 cuillères à soupe d'eau et 4 cuillères à soupe de sucre. Ajouter la vanille (grains + gousse). Porter à ébullition et laisser les fruits cuire dans le sirop ainsi obtenu à feu doux (environ 10 mn).Parallèlement, préparer la pâte en mélangeant le sucre et le beurre ramoli afin d'obtenir une pommade, y ajouter les oeufs, puis la farine (le mélange peut paraître épais mais c'est normal !). Disposer les fruits cuits dans un plat creux allant au four ( style plat à gratin)en y ajoutant le sirop. Mettre la pâte par dessus sans chercher à l'étaler, la cuisson va s'en charger.Enfourner à four moyen (200°C) pendant 40 mn (tester la cuisson à la pointe de couteau!). Servir tiède ou froid, recouvert de crème anglaise.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gâteau très chocolat</Titre>
+	<TempsPreparation>5 minutes</TempsPreparation>
+	<TempsCuisson>5 minutes</TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>3</Quantite>
+		</Item>
+		<Item>
+			<NomItem>chocolat</NomItem>
+			<Quantite>200 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre</NomItem>
+			<Quantite>100 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>75 g</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>
+	Dans un bol, faire fondre le chocolat et le beurre au micro-onde pendant 1 minute et 40 secondes. Dans un saladier, mélanger les oeufs, le sucre et la farine puis ajouter le chocolat et le beurre. Verser le tout dans un moule beurré et mettre au micro-onde puissance maxi pendant 5 minutes. Voilà c'est prêt à déguster. Bon appétit!
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gratin de courgettes express</Titre>
+	<TempsPreparation>15 minutes</TempsPreparation>
+	<TempsCuisson>15 minutes</TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>courgettes</NomItem>
+			<Quantite>6</Quantite>
+		</Item>
+		<Item>
+			<NomItem>crème fraîche</NomItem>
+			<Quantite>20 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lait</NomItem>
+			<Quantite>1 verre</Quantite>
+		</Item>
+		<Item>
+			<NomItem>gruyère râpé </NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>poivre</NomItem>
+			<Quantite></Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Éplucher et cuire les courgettes à la vapeur. Une fois qu'elles sont cuites les égoutter et les écraser avec un presse purée. Ajouter les 2 œufs la crème liquide, et bien mélanger. Ajouter 1 verre de lait et quelques cuillère de farine (qui absorbera l'eau des courgettes). Placer le tout dans un plat à gratin et parsemer de gruyère râpé. Cuire à four chaud pendant environ 15 min. Servir chaud.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gratin de légumes d'été</Titre>
+	<TempsPreparation>30 minutes</TempsPreparation>
+	<TempsCuisson>10 minutes</TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>aubergine</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>courgette</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lard fumé</NomItem>
+			<Quantite>4-5 tranches</Quantite>
+		</Item>
+		<Item>
+			<NomItem>mozzarella</NomItem>
+			<Quantite>1 boule</Quantite>
+		</Item>
+		<Item>
+			<NomItem>tomates séchées</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>basilic</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>huile d'olive</NomItem>
+			<Quantite></Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Faire frire les légumes tranchés en rondelles dans l'huile d'olive, ainsi que les tranches de lard. Faire des couches successives dans un plat à gratin : aubergines, lard, courgettes, basilic, tomates séchées, Mozzarella. Enfourner à four chaud, pour faire fondre le fromage, puis terminer en le faisant gratiner.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gratin de légumes léger</Titre>
+	<TempsPreparation>30 minutes</TempsPreparation>
+	<TempsCuisson>30 minutes</TempsCuisson>
+	<NombrePersonne>6</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>riz</NomItem>
+			<Quantite>200 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>poireau</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>courgettes surgelées</NomItem>
+			<Quantite>500 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sauce tomate préparée</NomItem>
+			<Quantite>125 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>jambon fumé</NomItem>
+			<Quantite>4 ou 5 tranches</Quantite>
+		</Item>
+		<Item>
+			<NomItem>béchamel</NomItem>
+			<Quantite>1/2 l</Quantite>
+		</Item>
+		<Item>
+			<NomItem>gruyère</NomItem>
+			<Quantite>100 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>chapelure</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>poivre</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>aromates</NomItem>
+			<Quantite></Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Décongeler les courgettes dans une poêle à feu vif puis les faire dorer. Les réserver sur une assiette, et faire revenir le poireaux émincé finement dans la même poêle. Faire suer 6,7 mn. Réserver, préparer le riz (préférer un sachet à cuisson rapide) et la béchamel. Découper les tomates en tranches. Dans un plat à gratin, disposer le poireau, les courgettes, la moitié du riz, les aromates (persil, thym, romarin...), sel, poivre, la sauce tomate, les tranches de tomates, le reste de riz, les tranches de jambon, le tout en couches plus ou moins harmonieuses. Couvrir avec la béchamel. Parsemer du gruyère râpé et d'un peu de chapelure. Mettre au four préchauffé, environ 25 à 30 mn à 180°C.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Gratin de pommes de terre fondant</Titre>
+	<TempsPreparation>15 minutes</TempsPreparation>
+	<TempsCuisson>55 minutes</TempsCuisson>
+	<NombrePersonne>4 personnes</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>pomme de terre</NomItem>
+			<Quantite>1 kg</Quantite>
+		</Item>
+		<Item>
+			<NomItem>fromage râpé</NomItem>
+			<Quantite>60 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>crème fraîche</NomItem>
+			<Quantite>25 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>ail</NomItem>
+			<Quantite>1 gousse</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>poivre</NomItem>
+			<Quantite></Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Épluchez et coupez en fines rondelles les pommes de terre. Frottez le plat à gratin avec la gousse d'ail. Disposez successivement les rondelles de pommes de terre, le gruyère râpé et la crème, salez et poivrez. Recommencez jusqu'en haut du plat pour finir sur une couche de pommes de terre.Ajoutez une noix de beurre. Faites cuire à 200°C (Thermostat 6) pendant 50 min puis 5 min à 240°C (Thermostat 8). Dégustez aussitôt.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Muffins</Titre>
+	<TempsPreparation></TempsPreparation>
+	<TempsCuisson>15 minutes</TempsCuisson>
+	<NombrePersonne>12</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>280 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre</NomItem>
+			<Quantite>100 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lait</NomItem>
+			<Quantite>150 ml</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre</NomItem>
+			<Quantite>80 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>levure chimique</NomItem>
+			<Quantite>1 sachet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre vanillé</NomItem>
+			<Quantite>1 sachet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite>1 pincée</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Dans un premier saladier : mélanger la farine, le sucre, le sel, le sucre vanillé et la levure. Dans un deuxième saladier : mélanger le lait, l'huile(ou beurre fondu) et les oeufs. Verser le contenu du second saladier dans le premier et remuer jusqu'à obtenir une pâte plutôt lisse. Laissez tout de même quelques petits grumeaux. Mettre au four 15 min à 180°C (thermostat 6)
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Pancakes</Titre>
+	<TempsPreparation>10 minutes</TempsPreparation>
+	<TempsCuisson>4 minutes</TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>250 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre semoule</NomItem>
+			<Quantite>30 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeuf</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>levure traditionnelle</NomItem>
+			<Quantite>1 sachet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre doux</NomItem>
+			<Quantite>65 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite>1 pincée</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lait</NomItem>
+			<Quantite>30 cl</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Faire fondre le beurre, dans une casserole à feu doux ou dans un bol au micro-ondes. Mettre la farine, la levure et le sucre dans un saladier. Mélanger et creuser un puits. Ajouter ensuite les oeufs entiers et fouetter l'ensemble. Incorporer le beurre fondu, fouetter puis délayer progressivement le mélange avec le lait afin d'éviter les grumeaux. Laisser reposer la pâte au minimum 1 heure au réfrigérateur. Dans une poêle chaude et légèrement huilée, faire cuire comme des crêpes, mais en les faisant plus petites. Réserver au chaud et déguster.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Salade de l'été</Titre>
+	<TempsPreparation>15 minutes</TempsPreparation>
+	<TempsCuisson>10 minutes</TempsCuisson>
+	<NombrePersonne>8</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>riz</NomItem>
+			<Quantite>160 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>crevettes roses</NomItem>
+			<Quantite>16</Quantite>
+		</Item>
+		<Item>
+			<NomItem>thon</NomItem>
+			<Quantite>160 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>surimi</NomItem>
+			<Quantite>16</Quantite>
+		</Item>
+		<Item>
+			<NomItem>olives vertes</NomItem>
+			<Quantite>16</Quantite>
+		</Item>
+		<Item>
+			<NomItem>tomates</NomItem>
+			<Quantite>8</Quantite>
+		</Item>
+		<Item>
+			<NomItem>concombre</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Faire cuire le riz dix minutes et le rincer à l'eau froide.Preparer une vinaigrette. Couper tous les ingrédients en petits morceaux (sauf les crevettes) et mélanger le tout avec le riz et la vinaigrette. Deposer les crevettes sur la salade. Servir frais !
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Salade de laitue au citron</Titre>
+	<TempsPreparation>10 minutes</TempsPreparation>
+	<TempsCuisson></TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>laitue lavée et épluchée</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oignon</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>citron pressé</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre</NomItem>
+			<Quantite>2 cuillère à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite>1 pincée</Quantite>
+		</Item>
+		<Item>
+			<NomItem>eau</NomItem>
+			<Quantite>4 cuillères à soupe</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Dans le saladier, mélanger: l'oignon coupé en dés, le sucre, le sel, le jus de citron et l'eau. Juste avant de servir (pour éviter le flétrissement), couper la laitue en fines lamelles dans le saladier et mélanger le tout.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Salade froide aux pommes de terre</Titre>
+	<TempsPreparation>30 minutes</TempsPreparation>
+	<TempsCuisson>15 minutes</TempsCuisson>
+	<NombrePersonne>8</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>pommes de terre</NomItem>
+			<Quantite>1 kg</Quantite>
+		</Item>
+		<Item>
+			<NomItem>mayonnaise</NomItem>
+			<Quantite>6 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oignons</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>cornichons</NomItem>
+			<Quantite>15</Quantite>
+		</Item>
+		<Item>
+			<NomItem>vinaigre</NomItem>
+			<Quantite>2 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite>1 pincée</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Faire bouillir les pommes de terres jusqu'à ce qu'elles soient cuites, mais pas autant que pour une purée. Peler et couper en gros dés les pommes de terre. Couper en petits morceaux les oignons et les cornichons.Mélanger tous les ingrédients. Mettre au réfrigérateur.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Soupe à l'oignon</Titre>
+	<TempsPreparation>25 minutes</TempsPreparation>
+	<TempsCuisson>20 minutes</TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>oignon</NomItem>
+			<Quantite>4</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre</NomItem>
+			<Quantite>50 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>huile</NomItem>
+			<Quantite>1 cuillère à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>1 cuillère à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>vin blanc</NomItem>
+			<Quantite>25 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>eau</NomItem>
+			<Quantite>1 l</Quantite>
+		</Item>
+		<Item>
+			<NomItem>pains de mie</NomItem>
+			<Quantite>6 tranches</Quantite>
+		</Item>
+		<Item>
+			<NomItem>comté râpé</NomItem>
+			<Quantite>100 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>poivre</NomItem>
+			<Quantite> </Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Pelez et émincez les oignons. Faites-les revenir dans le mélange beurre et huile jusqu'à ce qu'ils soient tendres et légèrement dorés.Saupoudrez le mélange de farine, mouillez d'eau chaude et de vin blanc et assaisonnez. Couvrez et laissez bouillonner doucement pendant 20 minutes.Faites grillez le pain. Disposez chaque tranche dans le fond de 4 petits bols individuels supportant le passage au four. Saupoudrez d'un peu de fromage râpé. Versez la soupe par-dessus.Saupoudrez à nouveau de fromage et faites gratiner.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Soupe à la tomate</Titre>
+	<TempsPreparation>20 minutes</TempsPreparation>
+	<TempsCuisson>30 minutes</TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>concentré de tomate</NomItem>
+			<Quantite>4 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>eau</NomItem>
+			<Quantite>1,5 l</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oignon</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>bouillon de poule</NomItem>
+			<Quantite>1 cube</Quantite>
+		</Item>
+		<Item>
+			<NomItem>vermicelles</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>1 cuillère à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>poivre</NomItem>
+			<Quantite></Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Peler l'oignon et le couper en fines lamelles. Le faire revenir dans une grande casserole avec un peu d'huile. Dès qu'il blondit, saupoudrer de farine. Bien mélanger et verser l'eau. Ajouter le sel, le poivre et le cube de bouillon. Prélever une tasse de bouillon pour délayer le concentré de tomates. Le verser progressivement dans la casserole en remuant sans arrêt. Porter à ébullition et laisser cuire à petit feu pendant 30 min. 3 min avant la fin, ajouter 2 poignées de vermicelles. Servir très chaud.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Soupe de champignons</Titre>
+	<TempsPreparation>15 minutes</TempsPreparation>
+	<TempsCuisson>25 minutes</TempsCuisson>
+	<NombrePersonne>5</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>champignons de Paris</NomItem>
+			<Quantite>1 barquette</Quantite>
+		</Item>
+		<Item>
+			<NomItem>pommes de terres moyennes</NomItem>
+			<Quantite>4</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oignon</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>ail</NomItem>
+			<Quantite>4 gousses</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>poivre</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>muscade</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>persil</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>Kub or</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>crème liquide</NomItem>
+			<Quantite>20 cl</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Dans une cocotte, faire revenir dans un peu de beurre : les champignons, les pommes de terres, l'oignon émincé et l'ail émincé. Laisser revenir quelques minutes pour faire "suer" les champignons en remuant bien. Une fois le tout revenu, mettre un peu plus d'eau que le niveau de légumes et laisser frémir à feu doux en mélangeant de temps en temps. Ajouter sel, poivre, muscade et persil ainsi que le bouillon émietté. Une fois la soupe cuite, ajouter la crème mélanger et mixer la soupe. Servir chaud.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Soupe de légumes délicieuse et dététique</Titre>
+	<TempsPreparation>15 minutes</TempsPreparation>
+	<TempsCuisson>15 minutes</TempsCuisson>
+	<NombrePersonne>6</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>carotte</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>poireaux</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>navets</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oignons</NomItem>
+			<Quantite>4</Quantite>
+		</Item>
+		<Item>
+			<NomItem>ail</NomItem>
+			<Quantite>5 gousses</Quantite>
+		</Item>
+		<Item>
+			<NomItem>courgettes</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oignons</NomItem>
+			<Quantite>2</Quantite>
+		</Item>
+		<Item>
+			<NomItem>tomates</NomItem>
+			<Quantite>3</Quantite>
+		</Item>
+		<Item>
+			<NomItem>concentré de tomate</NomItem>
+			<Quantite>4 cuillère à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>huile</NomItem>
+			<Quantite>2 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sel</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>poivre du moulin</NomItem>
+			<Quantite></Quantite>
+		</Item>
+		<Item>
+			<NomItem>eau</NomItem>
+			<Quantite>2,5 l</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lait de coco</NomItem>
+			<Quantite>5 cl</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Eplucher et couper les légumes en julienne (cuisson plus rapide)Dans un faitout, faire chauffer l'huile, ajouter les oignons et l'ail, le concentré de tomate et faire revenir 30 secondes, ajouter le lait de coco, bien mélanger. Ajouter les légumes, les faire revenir pendant environ 5 à 6 minutes en remuant, mettre le sel et le poivre. Verser l'eau jusqu'à ce que les légumes soient recouverts environ 2 cm au-dessus des légumes, porter à ébullition, remettre ensuite sur feu doux 15 minutes pour une petite ébullition. Remuer de temps en temps, rectifier la quantité de l'eau si besoin. Bien mouliner pour un velouté la soupe encore tiède de manière de façon rectifier plus facilement avec le sel et le poivrer si besoin. Rectifier la quantité d'eau si nécessaire pour une soupe plus ou moins liquide. Servir bien chaud sans beurre et sans crème fraiche pour le coté diététique.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Soupe express de lentilles</Titre>
+	<TempsPreparation>5 minutes</TempsPreparation>
+	<TempsCuisson>15 minutes</TempsCuisson>
+	<NombrePersonne>4</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>lentilles</NomItem>
+			<Quantite>1 grosse boîte</Quantite>
+		</Item>
+		<Item>
+			<NomItem>eau ou bouillon</NomItem>
+			<Quantite>40 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>fécule de maïs</NomItem>
+			<Quantite>1 cuillère à soupe</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Mettez la boîte (les lentilles et leur jus) dans une casserole, ainsi que l'eau (ou le bouillon), puis portez à ébullution. Ajoutez la fécule délayée. Laissez épaissir à feu doux. Mixez. C'est prêt !
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Tarte au chocolat fondant</Titre>
+	<TempsPreparation>60 minutes</TempsPreparation>
+	<TempsCuisson>25 minutes</TempsCuisson>
+	<NombrePersonne>8</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>pâte sablée</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>chocolat à pâtisserie</NomItem>
+			<Quantite>200 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>crème fraîche liquide</NomItem>
+			<Quantite>150 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lait</NomItem>
+			<Quantite>50 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeuf</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Il ne faut pas laisser le chocolat trop cuire, sinon ce serait un peu sec, c'est comme un fondant mais avec une pâte. Beurrer un plat à tarte démontable de 20 cm de diamètre environ, et disposer la pâte dedans, et laisser reposer environ 1 h au réfrigérateur. Préchauffer le four à 200°C (thermostat 6-7), et cuire le fond de tarte pendant 10 min.Pendant ce temps, couper le chocolat en très petits morceaux et faire bouillir la crème et le lait dans une casserole. Ajouter le chocolat en morceaux, retirer du feu, et mélanger au fouet pour obtenir une masse bien lisse. Ajouter ensuite un œuf entier battu, et bien mélanger. Verser cette préparation sur le fond de tarte précuit. Faire cuire 15 à 18 min dans le four préchauffé à 150°C (th 5), la crème devant être légèrement prise, mais encore tremblotante. Pour servir, retirer le cercle et éventuellement la plaque à tarte. Servir tiède ou froide.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Tarte daux bananes</Titre>
+	<TempsPreparation>30 minutes</TempsPreparation>
+	<TempsCuisson>22 minutes</TempsCuisson>
+	<NombrePersonne>6</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>pâte feuilletée</NomItem>
+			<Quantite>200 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>bananes</NomItem>
+			<Quantite>6</Quantite>
+		</Item>
+		<Item>
+			<NomItem>crème</NomItem>
+			<Quantite>10 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>farine</NomItem>
+			<Quantite>2 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>jaunes d'oeufs</NomItem>
+			<Quantite>3</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre</NomItem>
+			<Quantite>150 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>rhum</NomItem>
+			<Quantite>5 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre glace</NomItem>
+			<Quantite>2 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>marmelade d'abricots</NomItem>
+			<Quantite>3</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Préchauffez le four à 180°C (thermostat). Etalez la pâte dans un moule à tarte et faites cuire à blanc 15 minutes. Saupoudrez le fond de la tarte de 50 g de sucre semoule. Coupez la moitié des bananes en rondelles et écrasez l'autre moitié. Mélangez la crème, le reste de sucre, les trois jaunes d'oeufs, la farine et 4 cl de rhum. Battez bien. Incorporez la purée de bananes et nappez-en le fond de tarte. Disposez dessus les rondelles de bananes restantes. Délayez la marmelade d'abricots avec le reste de rhum et nappez-en le dessus de la tarte. Enfournez pour 20 minutes de cuisson. Saupoudrez de sucre glace puis passez 2 minutes sous le gril du four.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Tarte aux fraises</Titre>
+	<TempsPreparation>20 minutes</TempsPreparation>
+	<TempsCuisson>40 minutes</TempsCuisson>
+	<NombrePersonne>6</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>pâte sablée</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>fraises</NomItem>
+			<Quantite>500 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>citron</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>gelée de groseilles ou de framboises</NomItem>
+			<Quantite>200 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucre semoule</NomItem>
+			<Quantite>2 cuillères à soupe</Quantite>
+		</Item>
+		<Item>
+			<NomItem>eau</NomItem>
+			<Quantite>4 cuillères à soupe</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Cuire à blanc la pâte sablée recouverte de haricots secs (20 mn à 180°C). Dans une casserole, mettez la gelée et l’eau. Posez sur un feu doux. Laissez mijoter 10 mn pour en faire un sirop onctueux. Equeutez les fraises. Lavez-les rapidement, séchez-les. Disposez-les sur la pâte sablée cuite et saupoudrée du sucre semoule mélangé avec le zeste de la moitié du citron. Dès que le sirop est froid, nappez-en les fraises.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Tarte aux pommes</Titre>
+	<TempsPreparation>25 minutes</TempsPreparation>
+	<TempsCuisson>30 minutes</TempsCuisson>
+	<NombrePersonne>6</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>pâte brisée</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>pommes golden</NomItem>
+			<Quantite>6</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sachet de sucre vanillé</NomItem>
+			<Quantite>1 sachet</Quantite>
+		</Item>
+		<Item>
+			<NomItem>beurre</NomItem>
+			<Quantite>30 g</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Éplucher et découper en morceaux 4 Golden. Faire une compote : les mettre dans une casserole avec un peu d'eau (1 verre ou 2). Bien remuer. Quand les pommes commencent à ramollir, ajouter un sachet ou un sachet et demi de sucre vanillé. Ajouter un peu d'eau si nécessaire.Vous saurez si la compote est prête une fois que les pommes ne seront plus dures du tout. Ce n'est pas grave s'il reste quelques morceaux. Pendant que la compote cuit, éplucher et couper en quatre les deux dernières pommes, puis, couper les quartiers en fines lamelles (elles serviront à être posées sur la compote).Préchauffer le four à 210°C (thermostat 7). Laisser un peu refroidir la compote et étaler la pâte brisée dans un moule et la piquer avec une fourchette. Verser la compote sur la pâte et placer les lamelles de pommes en formant une spirale ou plusieurs cercles, au choix ! Disposer des lamelles de beurre dessus. Mettre au four et laisser cuire pendant 30 min max. Surveiller la cuisson. Vous pouvez ajouter un peu de sucre vanillé sur la tarte pendant que çà cuit pour caraméliser un peu.
+	</Preparation>
+</Recette>
+
+<Recette>
+	<Titre>Tarte bananes chocolat</Titre>
+	<TempsPreparation>10 minutes</TempsPreparation>
+	<TempsCuisson>20 minutes</TempsCuisson>
+	<NombrePersonne>8</NombrePersonne>
+	<Ingredients> 
+		<Item>
+			<NomItem>pâte sablée</NomItem>
+			<Quantite>1</Quantite>
+		</Item>
+		<Item>
+			<NomItem>chocolat pâtissier</NomItem>
+			<Quantite>100 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>crème liquide</NomItem>
+			<Quantite>10 cl</Quantite>
+		</Item>
+		<Item>
+			<NomItem>bananes épluchées et coupées en rondelles</NomItem>
+			<Quantite>4</Quantite>
+		</Item>
+		<Item>
+			<NomItem>sucren en poudre</NomItem>
+			<Quantite>50 g</Quantite>
+		</Item>
+		<Item>
+			<NomItem>oeufs</NomItem>
+			<Quantite>3</Quantite>
+		</Item>
+		<Item>
+			<NomItem>lait</NomItem>
+			<Quantite>10 cl</Quantite>
+		</Item>
+	</Ingredients>
+	<Preparation>Préchauffez le four à 200°C (thermostat 6-7). Etalez la pâte sablée dans un plat à tarte. Faites fondre au micro-onde le chocolat pâtissier avec la crème liquide pendant 1min30. Etalez-le sur la pâte.Déposez les rondelles de bananes sur le chocolat. Mélangez les oeufs, le lait et le sucre en poudre ensemble, si vous avez un shaker, joignez-y ces ingrédients et agitez, c'est très efficace. Il ne vous reste plus qu'à verser cette préparation sur les bananes. Mettez au four pendant 20 min.
+	</Preparation>
+</Recette>
