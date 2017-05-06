@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import sys
-sys.path.append
+sys.path.append("/usr/local/lib/python3.4/dist-packages/")
 import enum
 import treetaggerwrapper
 
