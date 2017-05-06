@@ -18,33 +18,35 @@ class Recette:
         self.tempsPrep = tempsPrep
         self.tempsCuis = tempsCuis
         self.nbPers= nbPers
-        self.ingred = ingred
+        self.ingred = ingred # liste de tuple [(nomIngredient, quantite)]
         self.preparation = preparation
 
-def extraction(str, motif,deb, fin):
-	n = deb + len(motif)
+def extraction(str, balise,deb, fin): # extraction du texte entre deux balises 
+# deb est la position de la balise d'ouverture dans str et fin la position de la balise de fermeture
+	n = deb + len(balise)
 	return str[n:fin]
 
 def parser_ingredients(str, deb, fin):
+# extraction particulière car on a un nombre quelconque d'ingredients, chaque ingrédient étant associé à sa quantité
 	list_ing = []
-	debRecherche = deb
-
+	debRecherche = deb # debRecherche est l'endroit à partir duquel on va rechercher une balise
+# On récupère tous les ingrédients en parcourant le contenu des balises <Ingredients> et </Ingredients>
 	while debRecherche < (fin - 2):
 	
-		d = str.find("<NomItem>", debRecherche)
+		d = str.find("<NomItem>", debRecherche) # on cherche la position de la balise <NomItem> à partir de debRecherche
 		f = str.find("</NomItem>", debRecherche)
 		nomItem = extraction(str, "<NomItem>", d, f)
 		d = str.find("<Quantite>", debRecherche)
 		f = str.find("</Quantite>", debRecherche)
 		quantitie = extraction(str, "<Quantite>", d, f)
-		item = (nomItem, quantitie)
+		item = (nomItem, quantitie) # on créé le tuple et on l'ajoute à la liste des ingrédients
 		list_ing.append(item)
-		debRecherche = str.find("</Item>", debRecherche) + 7
+		debRecherche = str.find("</Item>", debRecherche) + 7 # on actualise la position de debut de la prochaine recherche
 		
 	return list_ing
 
 
-def read_file(filename):
+def read_file(filename): # point d'entrée du parsage des données
 	list_recettes = []
 	with open(filename, "r") as filepointer:
 		chaine = filepointer.read()
@@ -69,12 +71,13 @@ def read_file(filename):
 			deb = eltRecette.find("<Preparation>")
 			fin = eltRecette.find("</Preparation>")
 			preparation = extraction(eltRecette, "<Preparation>", deb, fin)
+			# On créé la recette avec toutes ses informations et on l'ajoute à la liste de recette
 			recette = Recette(nom, tempsPrep, tempsCuis, nbPers, ingred, preparation)
 			list_recettes.append(recette)
 
 	return list_recettes
 
-def lire(list_recettes):
+def lire(list_recettes): # fonction de test qui affiche liste de toutes les recettes
 	for elt in list_recettes:
 		print(" Nom recette : ", elt.nom)
 		print(" Temps de préparation : ", elt.tempsPrep)
