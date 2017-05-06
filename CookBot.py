@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import sys
-sys.path.append("/usr/local/lib/python3.4/dist-packages/")
 import enum
 import treetaggerwrapper
 
@@ -39,17 +37,20 @@ class Request:
 
     def printRequest(self):
         print(self.availableIngredients)
-        
+
+#Transforme le retour de TreeTagger en objets TreeTaggerWord
 def formatTTG(output):
     words=[]
     for w in output:
         words.append(TreeTaggerWord(w.split("\t")))
     return words
 
+# Objet créé à partir du retour de TreeTagger, plus facilement manipulable
 class TreeTaggerWord:
     def __init__(self, triplet):
         self.word, self.posTag, self.lemma = triplet
 
+# détermine (très basiquement) si la phrase exprime une intention de manger
 def eatingIntention(tagW):
     for w in taggedWords:
         if w.posTag[0:3] == "VER":
@@ -58,7 +59,9 @@ def eatingIntention(tagW):
                     return True
     return False
 
-def postTreatment(TW):
+# Fonction destinée a transformer les nombres écrits en lettres en chiffres
+# non implémenté : rassemblement de token : pomme de terre en un seul token par exemple...
+def preTreatment(TW):
     for w in TW:
         if w.posTag == "NUM" and w.lemma != "@card@":
             try:
