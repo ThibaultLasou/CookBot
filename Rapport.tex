@@ -130,10 +130,27 @@ exemples : Je voudrais manger italien aujourd'hui, Je veux un dessert pour 3 pe
 \section{Bilan des réalisations}
 \subsection{Travail réalisé}
 
-Tout d'abord, on est parti sur l'extraction de texte à partir de pages HTML qu'on a téléchargées sur le site Marmiton qui est un site qui propose des recettes de cuisine avec une explication sur leur préparation. On s'est vite rendu compte que les informations dont on avait besoin (nom de la recette, temps de préparation et de cuisson, ingrédients, etc.) n'étaient pas représentées de la même façon. Pour deux recettes différentes on trouvait parfois ces informations dans des balises différentes. Ajouté à cela le temps que prenait la lecture et la récupération d'un seul fichier HTML pour une recette. Temps qui était loin d'être négligeable si on essayait de parser plusieurs fichiers. On a donc trouvé une autre solution qui allait nous permettre de récupérer les informations des recettes, les représenter de façon plus efficace. On a donc récupéré directement à partir du site web sans examiner les balises HTML les informations qui nous intéressaient. Une fois ces informations récupérées, on les a structuré dans un fichier XML pour rendre leur utilisation exploitable par un script python qui allait parser ce fichier et stocker son contenu dans des structures de données appropriées. La pluralité des informations que contenait une recette a orienté notre choix pour une représentation des données en forme d'objets avec pour champs les caractéristiques d'une recette (nom, ingrédients, ...). On a donc parsé le fichier XML et stocké les informations de chaque recette dans un objet qu'on a créé. Au final on a une liste d'objets qui contiennent toutes les recettes du fichier qu'on a parsé. 
-\subsection{Difficultés rencontrées}
+Tout d'abord, on est parti sur l'extraction de texte à partir de pages HTML qu'on a téléchargées sur le site Marmiton qui est un site qui propose des recettes de cuisine avec une explication sur leur préparation. On s'est vite rendu compte que les informations dont on avait besoin (nom de la recette, temps de préparation et de cuisson, ingrédients, etc.) n'étaient pas représentées de la même façon. Pour deux recettes différentes on trouvait parfois ces informations dans des balises différentes. Ajouté à cela le temps que prenait la lecture et la récupération d'un seul fichier HTML pour une recette. Temps qui était loin d'être négligeable si on essayait de parser plusieurs fichiers. On a donc trouvé une autre solution qui allait nous permettre de récupérer les informations des recettes, les représenter de façon plus efficace. On a donc récupéré directement à partir du site web sans examiner les balises HTML les informations qui nous intéressaient. Une fois ces informations récupérées, on les a structuré dans un fichier XML pour rendre leur utilisation exploitable par un script python qui allait parser ce fichier et stocker son contenu dans des structures de données appropriées. La pluralité des informations que contenait une recette a orienté notre choix pour une représentation des données en forme d'objets avec pour champs les caractéristiques d'une recette (nom, ingrédients, ...). On a donc parsé le fichier XML et stocké les informations de chaque recette dans un objet qu'on a créé. Au final on a une liste d'objets qui contiennent toutes les recettes du fichier qu'on a parsé. \\ \\
+Pour la partie analyse on a téléchargé la bibliothèque treetaggerwrapper qui nous a permis de tagger les mots de la phrase écrite par l'utilisateur. On a créé une classe "Request" qui définit la demande de l'utilisateur, elle est caractérisée par : 
+\begin{itemize}
+\item son nom
+\item son type
+\item la liste des ingrédients disponibles
+\item sa culture
+\item son temps de préparation 
+\item le nombre de personnes qui peuvent déguster la recette
+\end{itemize}
+Un objet de type "Request" est créé et le contenu de ses champs seraient déduits des entrées de l'utilisateur. \\ \\ 
+On aurait ensuite voulu effectuer une recherche dans la liste des recettes et en fonction du nombre de résultats qui conviennent on aurait demandé des précisions jusqu'à ce qu'il reste 2 ou 3 recettes qu'on aurait affiché à la fin. Or on a malheureusement pas pu effectuer cette partie faute de temps.
+
+
 \subsection{Contribution de chacun des membres}
+Karim s'est essentiellement occupé de parser les fichiers HTML et de créer les fichiers XML. Quant à Thibault, il s'est d'abord occupé de rédiger le cahier des charges, de spécifier les tâches et les prioriser, il s'est ensuite occupé de la partie analyse et enfin Yasmine s'est principalement occupée de la rédaction du rapport.
 \section{Améliorations possibles}
+
+Avant d'effectuer d'éventuelles améliorations, il serait d'abord intéressant de compléter la programmation des fonctionnalités enoncées dans le cahier des charges.\\
+Ensuite, optimiser le stockage des recettes. En effet, dans la configuration actuelle on a choisi, par manque de temps, de stocker les recettes dans des fichiers XML, cette solution s'avère longue à l'exécution.
+
 \section*{Conclusion}À terme, les chatbots pourraient même se substituer aux applications mobiles en proposant un mode d'interaction beaucoup plus simple et intuitif. Les champs d'application des chatbots sont potentiellement illimités et leur perfectionnement est désormais corrélé aux progrès de l'intelligence artificielle.\\
 
 Mener de bout en bout un projet conséquent avec des règles préétablies nous a permis à la fois de mettre en pratique ce que nous avons appris en cours et de renforcer notre travail en groupe.

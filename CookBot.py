@@ -5,6 +5,7 @@ sys.path.append("/usr/local/lib/python3.4/dist-packages/")
 import enum
 import treetaggerwrapper
 
+# Listes de vocabulaire connu
 verbManger = ["manger", "affamer", "cuisiner"]
 exprManger = [("avoir", "faim", "dalle")]
 knownIngredients = ["pomme", "pâte", "orange"]
@@ -12,6 +13,8 @@ numbers = {}
 
 
 class Request:
+
+#constructeur : permet de construire la demande de l'utilisateur
     def __init__(self):
         self.nom = ""
         self.foodType = ""
@@ -23,6 +26,7 @@ class Request:
         self.isSet  = {"foodType" : False, "culture" : False, "nbEaters" : False, "availableIngredients" : False}
         self.Results = []
 
+#tagger les mots de la demande de l'utilisateur
     def fillRequest(self, tagW):
         for i, w in enumerate(tagW):
             w = tagW[i]
@@ -34,22 +38,27 @@ class Request:
                            self.isSet["availableIngredients"] = True
                            break;
 
+#permet de retourner la recette correspondante à la demande de l'utilisateur
     def findRecipes(self):
        return 
 
+#permet d'afficher la recette correspondante à la demande de l'utilisateur
     def printRequest(self):
         print(self.availableIngredients)
-        
+
+#permet de tagger les mots de la demande        
 def formatTTG(output):
     words=[]
     for w in output:
         words.append(TreeTaggerWord(w.split("\t")))
     return words
 
+#
 class TreeTaggerWord:
     def __init__(self, triplet):
         self.word, self.posTag, self.lemma = triplet
 
+#
 def eatingIntention(tagW):
     for w in taggedWords:
         if w.posTag[0:3] == "VER":
@@ -58,6 +67,7 @@ def eatingIntention(tagW):
                     return True
     return False
 
+#
 def postTreatment(TW):
     for w in TW:
         if w.posTag == "NUM" and w.lemma != "@card@":

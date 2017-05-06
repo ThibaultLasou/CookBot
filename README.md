@@ -13,11 +13,9 @@ Indications pour execution Il suffit de taper la ligne de commande:
  python3 CookBot.py
 
 Bibliothèques à installer:
-Il faut installer le tagger "treetaggerwrapper"
- sudo pip3 install treetaggerwrapper
- pip3 install --user treetaggerwrapper
+installer treetaggerwrapper avec pip et exécuter "install-tagger.sh"
 
 exemple d'utilisation:
 cookbot : Bonjour ! Que puis-je pour vous aujourd'hui?
 utilisateur : je veux manger et j'ai 5 pommes
-cookbot :
+cookbot :[(5,'pomme')]
